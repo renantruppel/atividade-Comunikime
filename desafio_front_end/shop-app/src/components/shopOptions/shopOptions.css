@@ -1,0 +1,94 @@
+
+.container {
+
+    height: auto;
+    padding: 15px;  
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: flex;
+    margin-left: 30%;
+}
+
+.register,.shop {
+    background-color: #ff1ac6;
+    border-radius: 50%;
+    border-color: black;
+    border-width: 3px;
+    height: 50px;
+    width: 130px;
+    margin: 0px 50px;
+    font-size: 1.4rem;
+    color: black;
+    
+}
+
+.buttonNumber {
+    margin-top: 5px;
+    font-size: 1.2rem;
+    background-color:black;
+    color: white;
+}
+
+.productsList {
+    display: flex;
+    width:90%;
+    height: auto;
+    background-color: black;
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
+
+.productsList2 {
+    display: flex;
+    background-color: #ff1ac6;
+    width: 100%;
+    margin: 4px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pagination{
+    margin-top: 10px;
+    width:250px;
+    height: 40px;
+    background-color: #ff1ac6;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.shopMarket {
+    display: flex;
+    width:95%;
+    height: auto;
+    background-color: white;
+    margin-left: 10px;
+    margin-bottom: 50px;
+    justify-content: space-around;
+}
+
+.productsShopList{
+    display: flex;
+    background-color: #ff1ac6;
+    width: 45%;
+    margin: 4px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cartItems {
+    display: flex;
+    background-color: #ff1ac6;
+    width: 45%;
+    margin: 4px;
+    flex-direction: column;
+    align-items: center;  
+}
+
+.comprar {
+    background-color: green;
+    height: 50px;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+

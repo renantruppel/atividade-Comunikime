@@ -1,0 +1,33 @@
+.boxShop {
+    margin: 10px 20px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    width: 95%;
+    max-height: 225px;
+    overflow: scroll;
+    
+}
+
+.addToCart {
+    background-color: black;
+    color: white;
+    margin-top: 3px;
+}
+
+.content {  
+    background-color: white;
+    width: 100%;
+
+}
+
+.title {
+    font-size: 3.0rem;
+    font-style: bold;
+    margin-left: 20%;
+}
+
+.description {
+    font-size: 1.4rem;
+    margin-left: 20px;
+}

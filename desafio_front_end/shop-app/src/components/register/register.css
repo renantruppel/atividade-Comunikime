@@ -1,0 +1,32 @@
+
+
+.box {
+    margin: 10px 20px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    width: 95%;
+    max-height: 225px;
+    overflow: scroll;
+}
+
+.imagem {
+    max-height: 225px;
+    max-width: 300px;
+}
+
+.content {  
+    background-color: white;
+    width: 100%;
+
+}
+
+.title {
+    font-size: 3.0rem;
+    font-style: bold;
+    margin-left: 40%;
+}
+
+.description {
+    font-size: 1.2rem;
+    margin-left: 20px;}

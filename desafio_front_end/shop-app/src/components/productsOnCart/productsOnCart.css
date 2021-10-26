@@ -1,0 +1,33 @@
+.boxShop {
+    margin: 10px 20px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    width: 95%;
+    max-height: 225px;
+    overflow: scroll;
+}
+
+.content {  
+    background-color: white;
+    width: 100%;
+
+}
+
+.title {
+    font-size: 3.0rem;
+    font-style: bold;
+    margin-left: 40%;
+}
+
+.qtdCart {
+    font-size: 1.4rem;
+    margin-left: 30%;
+    margin-top: 30px;
+}
+
+.buttonQtdCart {
+    background-color: blue;
+    font-size: 1.4rem;
+    margin: 5px;
+}

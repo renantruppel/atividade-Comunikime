@@ -1,0 +1,11 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.topBorder, .bottomBorder {
+    display: flex;
+    height: 80px;
+    width: 100%;
+    background-color: #b300b3;   
+}
