@@ -2,7 +2,7 @@
 
 #fazer o download do arquivo zipado e utilizar o extrair aqui
 
-#utilizar um editor de código para abrir nas pastas "desafio_front_end" e "desafio_back_end"
+#utilizar um editor de código para abrir nas pastas "desafio_front_end/shop-app" e "desafio_back_end"
 
 #Em ambas as pastas deve-se digitar "npm install".
 
